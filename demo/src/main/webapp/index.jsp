@@ -9,6 +9,7 @@
 <c:url value="/Login" var="login" />
 <c:url value="/Sample01" var="sample01" />
 <c:url value="/Sample02" var="sample02" />
+<c:url value="/Sample03" var="sample03" />
 
 <html>
 	<head>
@@ -28,6 +29,10 @@
 
 		<div>
 			<a href="${sample02}">go sample02</a>
+		</div>
+
+		<div>
+			<a href="${sample03}">go sample03</a>
 		</div>
 	</body>
 </html>

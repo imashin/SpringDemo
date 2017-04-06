@@ -1,6 +1,6 @@
 package com.example.demo.web.model;
 
-public class Sample02Form {
+public class Sample01Data {
 
 	private String id = null;
 	private String name = null;
@@ -18,7 +18,7 @@ public class Sample02Form {
 	}
 	@Override
 	public String toString() {
-		return "Sample02Form [id=" + id + ", name=" + name + "]";
+		return "Sample01Data [id=" + id + ", name=" + name + "]";
 	}
-
+	
 }
